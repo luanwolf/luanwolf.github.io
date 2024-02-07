@@ -29,8 +29,8 @@ params:
 consequat."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light
+    DateFormat: "January 2024"
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
@@ -47,7 +47,7 @@ consequat."
     ShowWordCount: false
     UseHugoToc: true
     comments: false
-    math: true
+    math: false
     profileMode:
           enabled: true
           title: Olá, seja bem vindo! 👋🏻
@@ -55,7 +55,7 @@ consequat."
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Heyash
           buttons:
             - name: Minecraft Dozamigos
               url: https://www.curseforge.com/minecraft/modpacks/dozamigos
