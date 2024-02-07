@@ -23,7 +23,7 @@ menu:
         - name: Vai na fé, irmão
           url: https://rule34.xxx/
           weight: 4
-      - name: Posts
+        - name: Postss
           url: papers/
           weight: 5
 
