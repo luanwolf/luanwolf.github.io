@@ -25,7 +25,7 @@ menu:
           weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
+    description: "Oi, eu sou o Goku 👋🏻
 consequat."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
@@ -50,8 +50,8 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Oi, eu sou o Goku 👋🏻
+          subtitle: "Oi, eu sou o Goku 👋🏻"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
