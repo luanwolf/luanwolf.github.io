@@ -68,11 +68,11 @@ params:
             - name: Discord Dozamigos
               url: https://discord.gg/PYkRJSFxMB
               weight: 4
-          socialIcons:
-           - name: GitHub
-              url: https://github.com/luanwolf
-           - name: Twitter
-              url: https://twitter.com/luanrafaelwolf
+          #socialIcons:
+          # - name: GitHub
+          #    url: https://github.com/luanwolf
+          # - name: Twitter
+          #    url: https://twitter.com/luanrafaelwolf
 
     assets:
         disableHLJS: true
