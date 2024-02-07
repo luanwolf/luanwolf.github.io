@@ -20,22 +20,21 @@ menu:
         - name: Github
           url: https://github.com/luanwolf
           weight: 3 
-        - name: Vai na fé, irmão
-          url: https://rule34.xxx/
-          weight: 4
-        - name: Postss
+        - name: Papers
           url: papers/
+          weight: 4
+        - name: Discord Dozamigos
+          url: https://discord.gg/PYkRJSFxMB
           weight: 5
 
 params:
-    description: "Oi, eu sou o Goku 👋🏻
-consequat."
+    description: "Central Dozamigos"
     author: Name
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2024"
-    defaultTheme: dark
-    hideFooter: false
-    disableThemeToggle: true
+    DateFormat: "Fevereiro 2024"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -45,7 +44,7 @@ consequat."
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: false
     ShowToc: false
-    disableScrollToTop: true
+    disableScrollToTop: false
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
@@ -54,25 +53,25 @@ consequat."
     profileMode:
           enabled: true
           title: Olá, seja bem vindo! 👋🏻
-          subtitle: "KKKKKKKKK"
+          subtitle: "Me chamo Luan, conhecido como Heyash ou 'moço do RH'. Este local é dedicado para os meus amigos terem um canal central das coisas para jogarmos."
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Heyash
           buttons:
+            - name: Papers
+              url: papers/
+              weight: 1
             - name: Minecraft Dozamigos
               url: https://www.curseforge.com/minecraft/modpacks/dozamigos
-              weight: 1
+              weight: 2
             - name: Kevin Launcher
               url: https://github.com/luanwolf/kevin-launcher/releases/tag/v1.1.0
-              weight: 2
-            - name: Github
-              url: https://github.com/luanwolf
-              weight: 3 
-            - name: Vai na fé, irmão
-              url: https://rule34.xxx/
+              weight: 3
+            - name: Discord Dozamigos
+              url: https://discord.gg/PYkRJSFxMB
               weight: 4
-       #socialIcons:
+          socialIcons:
        #    - name: CV
        #      url: cv.pdf
        #    - name: Email
@@ -85,12 +84,12 @@ consequat."
        #       url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
        #     - name: YouTube
        #       url: https://www.youtube.com/@pmichaillat
-       #    - name: GitHub
-       #       url: https://github.com/pmichaillat
+           - name: GitHub
+              url: https://github.com/luanwolf
        #     - name: Substack
        #        url: https://pmichaillat.substack.com
-       #     - name: Twitter
-       #       url: https://twitter.com/pmichaillat
+           - name: Twitter
+              url: https://twitter.com/luanrafaelwolf
 
     assets:
         disableHLJS: true
