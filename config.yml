@@ -50,8 +50,8 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Oi, eu sou o Goku 👋🏻
-          subtitle: "Oi, eu sou o Goku 👋🏻"
+          title: Olá, seja bem vindo! 👋🏻
+          subtitle: "KKKKKKKKK"
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
@@ -96,7 +96,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Central Dozamigos"
       icon: favicon.ico
       iconHeight: 18
 
