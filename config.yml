@@ -11,7 +11,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
+        - name: Posts
           url: papers/
           weight: 1
         - name: Minecraft Dozamigos
@@ -29,7 +29,7 @@ params:
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2024"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: true
     disableThemeToggle: false
     ShowShareButtons: false
@@ -50,13 +50,13 @@ params:
     profileMode:
           enabled: true
           title: Olá, seja bem vindo! 👋🏻
-          subtitle: "Me chamo Luan, conhecido como Heyash ou 'moço do RH'. Este local é dedicado para os meus amigos terem um canal central das coisas para jogarmos."
+          subtitle: "Me chamo Heyash. Este local é dedicado para os meus amigos terem um canal central das coisas para jogarmos."
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Heyash
           buttons:
-            - name: Papers
+            - name: Posts
               url: papers/
               weight: 1
             - name: Minecraft Dozamigos
