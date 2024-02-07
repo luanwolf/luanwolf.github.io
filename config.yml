@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+baseURL: "https://luanwolf.github.io/" 
+title: Central Dozamigos
 paginate: 20
 theme: PaperMod
 
@@ -11,17 +11,17 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Minecraft Dozamigos
+          url: https://www.curseforge.com/minecraft/modpacks/dozamigos
           weight: 1
-        - name: Courses
-          url: courses/
+        - name: Kevin Launcher
+          url: https://github.com/luanwolf/kevin-launcher/releases/tag/v1.1.0
           weight: 2
-        - name: Data
-          url: data/
+        - name: Github
+          url: https://github.com/luanwolf
           weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
+        - name: Vai na fé, irmão
+          url: https://rule34.xxx/
           weight: 4
 
 params:
@@ -57,18 +57,18 @@ consequat."
           imageHeight: 160
           imageTitle: Prof. Name
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            - name: Minecraft Dozamigos
+              url: https://www.curseforge.com/minecraft/modpacks/dozamigos
+              weight: 1
+            - name: Kevin Launcher
+              url: https://github.com/luanwolf/kevin-launcher/releases/tag/v1.1.0
+              weight: 2
+            - name: Github
+              url: https://github.com/luanwolf
+              weight: 3 
+            - name: Vai na fé, irmão
+              url: https://rule34.xxx/
+              weight: 4
     socialIcons:
         - name: CV
           url: cv.pdf
