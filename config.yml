@@ -11,9 +11,6 @@ taxonomies:
 
 menu:
     main:
-        - name: Posts
-          url: papers/
-          weight: 1
         - name: Minecraft Dozamigos
           url: https://www.curseforge.com/minecraft/modpacks/dozamigos
           weight: 2
@@ -56,9 +53,6 @@ params:
           imageHeight: 160
           imageTitle: Heyash
           buttons:
-            - name: Posts
-              url: papers/
-              weight: 1
             - name: Minecraft Dozamigos
               url: https://www.curseforge.com/minecraft/modpacks/dozamigos
               weight: 2
