@@ -23,6 +23,9 @@ menu:
         - name: Vai na fé, irmão
           url: https://rule34.xxx/
           weight: 4
+      - name: Posts
+          url: papers/
+          weight: 5
 
 params:
     description: "Oi, eu sou o Goku 👋🏻
