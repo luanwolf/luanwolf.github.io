@@ -11,27 +11,24 @@ taxonomies:
 
 menu:
     main:
-        - name: Minecraft Dozamigos
-          url: https://www.curseforge.com/minecraft/modpacks/dozamigos
-          weight: 1
-        - name: Kevin Launcher
-          url: https://github.com/luanwolf/kevin-launcher/releases/tag/v1.1.0
-          weight: 2
-        - name: Github
-          url: https://github.com/luanwolf
-          weight: 3 
         - name: Papers
           url: papers/
-          weight: 4
+          weight: 1
+        - name: Minecraft Dozamigos
+          url: https://www.curseforge.com/minecraft/modpacks/dozamigos
+          weight: 2
+        - name: Kevin Launcher
+          url: https://github.com/luanwolf/kevin-launcher/releases/tag/v1.1.0
+          weight: 3
         - name: Discord Dozamigos
           url: https://discord.gg/PYkRJSFxMB
-          weight: 5
+          weight: 4
 
 params:
     description: "Central Dozamigos"
     author: Name
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "Fevereiro 2024"
+    DateFormat: "January 2024"
     defaultTheme: light
     hideFooter: true
     disableThemeToggle: false
@@ -72,22 +69,8 @@ params:
               url: https://discord.gg/PYkRJSFxMB
               weight: 4
           socialIcons:
-       #    - name: CV
-       #      url: cv.pdf
-       #    - name: Email
-       #      url: mailto:pascal.michaillat@gmail.com
-       #    - name: Location
-       #     url: location/
-       #   - name: Office Hours
-       #       url: officehours/
-       #     - name: Google Scholar
-       #       url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-       #     - name: YouTube
-       #       url: https://www.youtube.com/@pmichaillat
            - name: GitHub
               url: https://github.com/luanwolf
-       #     - name: Substack
-       #        url: https://pmichaillat.substack.com
            - name: Twitter
               url: https://twitter.com/luanrafaelwolf
 
